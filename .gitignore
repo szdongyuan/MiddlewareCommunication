@@ -1,0 +1,7 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+log/
+resources/plcconfig.json
+resources/tcp.json
